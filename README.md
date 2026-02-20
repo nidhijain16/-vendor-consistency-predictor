@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
 
-**The Problem:** Delivery Hero's delivery chain breaks when restaurant preparation times are unpredictable. This project implements a real-time inference service to predict "Food Prep Time" variance.
+**The Problem:** Food delivery platforms lose reliability when restaurant preparation times are unpredictable. This project implements a real-time inference service to predict "Food Prep Time" variance.
 
 ## 🛠️ Tech Stack
 
